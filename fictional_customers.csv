@@ -1,0 +1,51 @@
+customer_id,company_name,industry,customer_segment,starting_arr_usd,expansion_arr_usd,contraction_arr_usd,current_arr_usd,licensed_users,active_users,product_adoption_pct,login_trend,usage_change_pct_90d,executive_engagement,days_since_last_csm_contact,support_tickets_90d,nps_score,renewal_date,days_to_renewal,renewal_status,expansion_potential_usd,expansion_status,health_score,health_status,renewal_risk
+CUST-001,Alder Analytics,Professional Services,Mid-Market,53000,0,0,53000,58,52,90,Increasing,37.2,Low,39,2,2,2027-10-03,339,Scheduled,12000,Qualified,72,Needs Attention,Medium
+CUST-002,Bluepeak Group,Technology,Enterprise,317000,0,0,317000,225,198,88,Increasing,20.5,High,4,0,9,2027-07-07,251,Scheduled,83000,Qualified,96,Healthy,Low
+CUST-003,Cedarstone Partners,Manufacturing,Enterprise,364000,0,0,364000,237,194,82,Declining,-15.2,Medium,20,2,8,2026-11-05,7,Upcoming,100000,Discovery,62,Needs Attention,High
+CUST-004,Driftwood Systems,Financial Services,Mid-Market,82000,0,5000,77000,71,21,29,Declining,-18.4,Low,32,5,1,2027-01-20,83,Upcoming,0,No identified opportunity,26,At Risk,High
+CUST-005,Everwell Digital,Technology,Mid-Market,28000,0,0,28000,71,53,75,Stable,-0.9,Low,15,0,1,2027-08-08,283,Scheduled,5000,No identified opportunity,63,Needs Attention,Medium
+CUST-006,Fairmont Holdings,Professional Services,Mid-Market,94000,0,0,94000,26,21,80,Stable,-1.2,Medium,31,1,6,2027-03-05,127,Scheduled,30000,Discovery,70,Needs Attention,Medium
+CUST-007,Granite Solutions,Travel,Enterprise,403000,0,0,403000,244,156,64,Stable,-0.5,High,4,3,1,2027-05-19,202,Scheduled,121000,Qualified,75,Healthy,Low
+CUST-008,Harborlight Collective,Healthcare,Enterprise,216000,0,0,216000,166,166,100,Stable,-4.1,Medium,36,2,0,2027-01-05,68,Upcoming,13000,Proposal,77,Healthy,Medium
+CUST-009,Ironwood Industries,Manufacturing,Enterprise,341000,0,0,341000,158,55,35,Declining,-19.0,Low,24,11,2,2026-11-20,22,Upcoming,0,No identified opportunity,27,At Risk,High
+CUST-010,Juniper Labs,Professional Services,Enterprise,365000,77000,0,442000,51,39,77,Stable,2.6,High,13,2,6,2027-03-16,138,Scheduled,106000,Qualified,84,Healthy,Low
+CUST-011,Keystone Analytics,Manufacturing,Enterprise,301000,0,0,301000,229,133,58,Increasing,6.5,Medium,12,8,9,2026-12-07,39,Upcoming,79000,No identified opportunity,69,Needs Attention,High
+CUST-012,Lakeshore Group,Travel,Agency,122000,0,0,122000,13,11,84,Increasing,15.0,High,3,0,10,2027-05-02,185,Scheduled,26000,Qualified,94,Healthy,Low
+CUST-013,Mapleline Partners,Retail,Mid-Market,34000,0,0,34000,105,94,90,Stable,-3.6,High,37,4,5,2027-02-14,108,Scheduled,11000,No identified opportunity,76,Healthy,Low
+CUST-014,Northstar Systems,Healthcare,Mid-Market,69000,0,0,69000,103,75,73,Stable,4.6,Medium,5,4,3,2027-08-29,304,Scheduled,19000,No identified opportunity,72,Needs Attention,Medium
+CUST-015,Oakridge Digital,Media,Mid-Market,67000,0,9000,58000,113,38,34,Declining,-34.6,Low,37,6,4,2026-12-06,38,Upcoming,0,No identified opportunity,23,At Risk,High
+CUST-016,Pinecrest Holdings,Financial Services,Enterprise,153000,0,0,153000,89,61,69,Increasing,5.7,High,9,1,1,2027-08-19,294,Scheduled,17000,Discovery,89,Healthy,Low
+CUST-017,Quartz Solutions,Retail,Agency,287000,59000,0,346000,104,81,78,Increasing,12.8,High,29,1,6,2027-10-03,339,Scheduled,10000,Qualified,88,Healthy,Low
+CUST-018,Redwood Collective,Manufacturing,Enterprise,433000,0,0,433000,215,174,81,Declining,-15.3,Low,29,3,7,2027-08-30,305,Scheduled,58000,Discovery,48,At Risk,High
+CUST-019,Silverline Industries,Retail,Enterprise,115000,0,14000,101000,56,20,36,Stable,-2.6,Medium,23,3,4,2027-07-03,247,Scheduled,19000,No identified opportunity,55,Needs Attention,Medium
+CUST-020,Timberlane Labs,Travel,Mid-Market,34000,0,0,34000,99,92,93,Increasing,15.2,High,11,3,8,2027-06-15,229,Scheduled,9000,Proposal,94,Healthy,Low
+CUST-021,Unionbridge Analytics,Media,Agency,77000,0,0,77000,38,18,47,Increasing,25.3,High,6,5,6,2026-12-23,55,Upcoming,3000,No identified opportunity,77,Healthy,Medium
+CUST-022,Valleyforge Group,Travel,Enterprise,290000,0,0,290000,173,43,25,Declining,-29.2,Low,26,10,0,2026-12-27,59,Upcoming,0,No identified opportunity,24,At Risk,High
+CUST-023,Westhaven Partners,Manufacturing,Mid-Market,57000,7000,0,64000,25,24,98,Stable,4.4,High,17,3,5,2026-11-07,9,Upcoming,9000,Qualified,83,Healthy,Medium
+CUST-024,Yellowfin Systems,Technology,Enterprise,213000,0,0,213000,141,109,77,Increasing,37.9,Low,42,2,0,2027-07-01,245,Scheduled,48000,No identified opportunity,68,Needs Attention,Medium
+CUST-025,Zenith Digital,Media,Agency,58000,11000,0,69000,37,25,68,Declining,-37.7,Low,11,1,1,2026-11-21,23,Upcoming,12000,Qualified,52,Needs Attention,High
+CUST-026,Brightwater Holdings,Professional Services,Enterprise,418000,72000,0,490000,243,182,75,Stable,3.3,High,42,1,5,2027-07-30,274,Scheduled,92000,Qualified,75,Healthy,Low
+CUST-027,Clearpath Solutions,Technology,Enterprise,201000,0,0,201000,47,47,100,Stable,-4.4,Medium,32,0,5,2027-07-17,261,Scheduled,12000,No identified opportunity,77,Healthy,Low
+CUST-028,Dovetail Collective,Retail,Enterprise,491000,0,0,491000,158,74,47,Declining,-31.6,Low,26,5,1,2027-01-02,65,Upcoming,0,No identified opportunity,36,At Risk,High
+CUST-029,Eastgate Industries,Retail,Mid-Market,50000,0,0,50000,80,62,78,Stable,-2.8,Medium,28,0,3,2027-04-24,177,Scheduled,4000,Discovery,73,Needs Attention,Medium
+CUST-030,Foxglove Labs,Retail,Mid-Market,66000,0,0,66000,87,57,66,Stable,-1.8,Low,16,4,6,2026-12-19,51,Upcoming,12000,Discovery,56,Needs Attention,High
+CUST-031,Greenfield Analytics,Travel,Mid-Market,38000,0,0,38000,44,37,84,Increasing,12.3,High,5,3,10,2027-04-28,181,Scheduled,6000,Qualified,90,Healthy,Low
+CUST-032,Highland Group,Media,Enterprise,298000,0,0,298000,107,65,61,Declining,-16.4,Medium,35,3,7,2027-08-03,278,Scheduled,17000,No identified opportunity,46,At Risk,High
+CUST-033,Inverness Partners,Manufacturing,Agency,326000,0,0,326000,119,62,52,Declining,-8.4,High,23,1,4,2026-11-17,19,Upcoming,54000,No identified opportunity,58,Needs Attention,High
+CUST-034,Jetstream Systems,Retail,Enterprise,190000,0,0,190000,230,186,81,Increasing,14.6,Medium,45,1,6,2027-09-02,308,Scheduled,42000,Discovery,78,Healthy,Low
+CUST-035,Kingswell Digital,Media,Mid-Market,83000,0,0,83000,94,71,76,Stable,0.4,Medium,42,7,9,2027-09-05,311,Scheduled,3000,No identified opportunity,60,Needs Attention,Medium
+CUST-036,Longview Holdings,Manufacturing,Agency,238000,0,0,238000,80,32,40,Declining,-23.7,Low,43,8,4,2027-01-15,78,Upcoming,0,No identified opportunity,25,At Risk,High
+CUST-037,Meadowbrook Solutions,Financial Services,Mid-Market,96000,0,0,96000,79,40,50,Increasing,29.2,Medium,36,7,3,2026-11-17,19,Upcoming,26000,Discovery,58,Needs Attention,High
+CUST-038,Newbridge Collective,Media,Agency,189000,0,0,189000,46,38,82,Declining,-41.9,Medium,45,3,10,2026-11-20,22,Upcoming,7000,Discovery,54,Needs Attention,High
+CUST-039,Orchard Industries,Professional Services,Mid-Market,81000,0,0,81000,10,5,46,Declining,-43.2,High,39,2,2,2027-07-05,249,Scheduled,1000,No identified opportunity,52,Needs Attention,Medium
+CUST-040,Parkstone Labs,Manufacturing,Agency,251000,0,19000,232000,38,9,23,Stable,3.5,High,11,4,7,2027-03-06,128,Scheduled,63000,Qualified,61,Needs Attention,Medium
+CUST-041,Queensway Analytics,Technology,Enterprise,325000,0,0,325000,67,65,97,Increasing,19.9,High,7,1,9,2027-01-14,77,Upcoming,83000,Proposal,99,Healthy,Medium
+CUST-042,Rivermark Group,Financial Services,Enterprise,457000,0,0,457000,112,44,39,Declining,-25.4,Medium,11,3,1,2026-12-29,61,Upcoming,140000,No identified opportunity,47,At Risk,High
+CUST-043,Stonebrook Partners,Manufacturing,Mid-Market,82000,0,0,82000,80,67,84,Declining,-20.0,Low,20,4,3,2027-10-13,349,Scheduled,15000,No identified opportunity,49,At Risk,High
+CUST-044,Trillium Systems,Travel,Enterprise,483000,0,20000,463000,192,63,33,Declining,-31.1,Low,28,8,1,2026-11-28,30,Upcoming,0,No identified opportunity,27,At Risk,High
+CUST-045,Umber Digital,Retail,Agency,98000,0,0,98000,10,7,67,Stable,-1.6,Medium,25,3,8,2027-09-10,316,Scheduled,8000,No identified opportunity,65,Needs Attention,Medium
+CUST-046,Vantage Holdings,Professional Services,Agency,194000,0,0,194000,15,7,49,Stable,-3.4,High,15,1,1,2027-08-24,299,Scheduled,8000,Discovery,70,Needs Attention,Medium
+CUST-047,Willowbend Solutions,Technology,Enterprise,126000,23000,0,149000,153,78,51,Declining,-44.8,Low,24,3,6,2027-05-23,206,Scheduled,27000,Proposal,38,At Risk,High
+CUST-048,Xenith Collective,Retail,Enterprise,314000,0,0,314000,205,164,80,Increasing,18.7,Medium,38,0,0,2027-03-21,143,Scheduled,18000,Qualified,78,Healthy,Low
+CUST-049,Yorkshire Industries,Technology,Mid-Market,85000,0,0,85000,45,35,77,Stable,-3.7,High,31,3,7,2027-05-21,204,Scheduled,17000,No identified opportunity,72,Needs Attention,Medium
+CUST-050,Zephyr Labs,Travel,Agency,77000,0,0,77000,107,72,67,Stable,-2.2,High,21,3,6,2026-12-29,61,Upcoming,24000,No identified opportunity,72,Needs Attention,Medium
