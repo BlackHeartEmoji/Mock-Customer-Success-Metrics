@@ -38,3 +38,10 @@ Renewal timing is calculated from **October 29, 2026**. If you reuse the dataset
 ## Notes
 
 This is a synthetic dataset, not a benchmark for real customer success teams. The health score and renewal-risk label are simple examples intended to make the data useful for learning. They are not a validated churn prediction model.
+
+
+## Interactive dashboard
+
+An interactive dashboard is included in `app.py`. It uses Streamlit and Plotly to display customer health, adoption, renewal timing, and expansion opportunity metrics.
+
+See `docs/run_dashboard.md` for setup instructions. GitHub stores the app's code, but running it locally or deploying it to a hosting service is required to view it as an interactive app.
